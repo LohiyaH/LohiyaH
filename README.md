@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Logo Genrator from API**
 
-- 🌱 I’m currently learning **Express JS,Nodes JS**
+- 🌱 I’m currently learning **Express JS,Node JS**
 
 - 🤝 I’m looking for help with **Backend Development**
 
