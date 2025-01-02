@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Lohiya</h1>
 <h3 align="center">A passionate Data Analyst | Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Express JS,Node JS**
+- 🌱 I’m currently learning **Express JS**
 
 - 🤝 I’m looking for help with **Backend Development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshrlohiya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ea_sKbeoKb6t7J59yZmDOnh0vweVQt06)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1ea_sKbeoKb6t7J59yZmDOnh0vweVQt06)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
