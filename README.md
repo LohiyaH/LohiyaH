@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Lohiya</h1>
 <h3 align="center">A passionate Data Analyst | Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Vue JS**
 
 - 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/LohiyaH)
 
-- 💬 Ask me about **React JS,CSS and frameworks**
+- 💬 Ask me about **Data Analytics and Web Development**
 
 - 📫 How to reach me **harshrlohiya@gmail.com**
 
