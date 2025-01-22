@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/LohiyaH)
 
-- 💬 Ask me about **Data Analytics and Web Development**
+- 💬 Ask me about **Data Analytics | Web Development | Software Development**
 
 - 📫 How to reach me **harshrlohiya@gmail.com**
 
