@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshrlohiya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1ea_sKbeoKb6t7J59yZmDOnh0vweVQt06)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/4/folders/1GwJEvE6urYsp1CuTUzzluIYZvRWjUeax)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
